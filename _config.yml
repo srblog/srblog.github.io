@@ -1,14 +1,12 @@
-title: Your awesome title
+title: S Rout 
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: S Rout
+  email: mixignal[at]gmail[dot]com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+   Linux, websites, electrical, economics, home improvement are some of the topics covered in this blog. Most of the posts are solution to some of the problems, professional or personal, the author himself has faced. You can know more about the author at https://sroutk.github.io
 
 # Build settings
 
@@ -43,14 +41,18 @@ minima:
   #   - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
   #   - { platform: telegram,       user_url: "https://t.me/jekyll" }
   #   - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
-  #   - { platform: x,              user_url: "https://x.com/jekyllrb" }
   #   - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
+
+# By default Jekyll ignores directories with underscores.
+# Specificically include ones here
+#  include:
+#    - _pages
 
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
 # order as they should show up.
 #
-# header_pages:
-#   - about.md
+header_pages:
+   - header-pages-about.md
 
 # Set to `true` to show excerpts on the homepage.
 #

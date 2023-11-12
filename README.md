@@ -369,6 +369,13 @@ To set up your environment to develop this theme, run `script/bootstrap`.
 
 To test your theme, run `script/server` (or `bundle exec jekyll serve`) and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme and the contents. As you make modifications, your site will regenerate and you should see the changes in the browser after a refresh.
 
+## HTML symbol/etc codes:
+
+&#9730; 9730 Black umbrella &#9733; 9733/4 Black/White Star &#9742; 9742/3 Black/White Telephone &#9744; 9744/5/6 Ballot Box (Empty/Check/Cross) &#9754; 9754/5 Black Left/Right Pointing Hands &#9756; 9756/8 White Left/Right Pointing Hands.
+
+## Blog Disclaimer
+[How to Write a Blog Disclaimer to Stay Legal and Safe](https://www.websitepolicies.com/blog/write-blog-disclaimer) is good blog on different types of blog/web disclaimers.
+
 ## License
 
 The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).

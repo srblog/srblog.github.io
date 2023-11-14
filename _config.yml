@@ -1,12 +1,12 @@
 title: SR Blog 
 author:
   name: S Rout
-  email: mixignal[at]gmail[dot]com
+  email: https://sroutk.github.io
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-   S Rout's blog. You can know more about the author at https://sroutk.github.io
+  An engineer's blog. Site at [GitHub](https://github.com/srblog/srblog.github.io)
 
 # Build settings
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "User Guide for X11 Client-Server"
+title:  "Understanding and using the X Window System"
 date:   2024-02-04
 tags: linux X11 
 ---
@@ -12,7 +12,7 @@ In this blog, we will demonstrate two methods of viewing graphical outputs from 
 
 # The X-Server Architecture
 
-![X11 Architecture](images/XserverClient-v2.png)
+![X11 Architecture](assets/images/XserverClient-v2.png)
 
 The graphics window system in Linux is based on X Window System, called X for short, that was first developed at MIT in 1984 of which X Version 11 (X11) is the version in use today which was first released in 1987. X Windows is based on client-server model where, a *X server* program runs on a computer with graphical interface hardware that communicates with various *client programs* over a network protocol.
 
@@ -96,16 +96,16 @@ TCP [::1]:5901 [::]:0 LISTENING 7856
 
 # References 
 
-&#9758; Oracle, “Chapter 1 Introduction to the Solaris X Server.” Accessed: Oct. 02, 2023. [Online](https://docs.oracle.com/cd/E19455-01/806-1363/6jalfckmd/index.html)
-&#9758; Oracle, “Understanding the X Server Process - Oracle Solaris 11.1 Desktop Administrator’s Guide.” Accessed: Oct. 03, 2023. [Online](https://docs.oracle.com/cd/E26502_01/html/E28056/gmcdr.html)
-&#9758; Stackexchange, "How to forward X over SSH to run graphics applications remotely?", Accessed: Oct. 03, 2023. [Online](https://unix.stackexchange.com/questions/12755/how-to-forward-x-over-ssh-to-run-graphics-applications-remotely)
-&#9758; University Information Technology Services, “Use X forwarding on a personal computer to securely run graphical applications installed on IU’s research supercomputers.” Accessed: Oct. 03, 2023. [Online](http://tinyurl.com/2y3cdt6w)
-&#9758; SourceForge.net, “Xming X Server for Windows download.” Accessed: Oct. 03, 2023. [Online](https://sourceforge.net/projects/xming/)
-&#9758; Borisenko, “A Brief intro to X11 Programming.” Accessed: Oct. 03, 2023. [Online](http://mech.math.msu.su/~vvb/2course/Borisenko/CppProjects/GWindow/xintro.html)
-&#9758; Adam McPartlan, “Easy SSH Automation | Linux Journal.” Accessed: Oct. 03, 2023. [Online](https://www.linuxjournal.com/content/easy-ssh-automation)
-&#9758; O’Reilly, “1 An Introduction to the X Window System - X Window System User’s Guide for X11 R3 and R4 of the X Window System ” Accessed: Oct. 03, 2023. [Online Book](https://www.oreilly.com/library/view/x-window-system/9780937175149/Chapter01.html)
-&#9758; “X Window System protocols and architecture,” Wikipedia. May 21, 2022. Accessed: Oct. 03, 2023. [Online](https://en.wikipedia.org/w/index.php?title=X_Window_System_protocols_and_architecture&oldid=1089073578)
-&#9758; “Xlib,” Wikipedia. Mar. 19, 2023. Accessed: Oct. 03, 2023. [Online](https://en.wikipedia.org/w/index.php?title=Xlib&oldid=1145561958)
-&#9758; “An introduction to X by The Linux Information Project (LINFO).” Accessed: Oct. 03, 2023. [Online](https://www.linfo.org/x.html)
-&#9758; Srinivasan, “JUST AIX: Create/rebuild a new .Xauthority file,” JUST AIX. Accessed: Oct. 03, 2023. [Online](http://justaix.blogspot.com/2011/01/createrebuild-new-xauthority-file.html)
+- Oracle, “Chapter 1 Introduction to the Solaris X Server.” Accessed: Oct. 02, 2023. [Online](https://docs.oracle.com/cd/E19455-01/806-1363/6jalfckmd/index.html)
+- Oracle, “Understanding the X Server Process - Oracle Solaris 11.1 Desktop Administrator’s Guide.” Accessed: Oct. 03, 2023. [Online](https://docs.oracle.com/cd/E26502_01/html/E28056/gmcdr.html)
+- Stackexchange, "How to forward X over SSH to run graphics applications remotely?", Accessed: Oct. 03, 2023. [Online](https://unix.stackexchange.com/questions/12755/how-to-forward-x-over-ssh-to-run-graphics-applications-remotely)
+- University Information Technology Services, “Use X forwarding on a personal computer to securely run graphical applications installed on IU’s research supercomputers.” Accessed: Oct. 03, 2023. [Online](http://tinyurl.com/2y3cdt6w)
+- SourceForge.net, “Xming X Server for Windows download.” Accessed: Oct. 03, 2023. [Online](https://sourceforge.net/projects/xming/)
+- Borisenko, “A Brief intro to X11 Programming.” Accessed: Oct. 03, 2023. [Online](http://mech.math.msu.su/~vvb/2course/Borisenko/CppProjects/GWindow/xintro.html)
+- Adam McPartlan, “Easy SSH Automation | Linux Journal.” Accessed: Oct. 03, 2023. [Online](https://www.linuxjournal.com/content/easy-ssh-automation)
+- O’Reilly, “1 An Introduction to the X Window System - X Window System User’s Guide for X11 R3 and R4 of the X Window System ” Accessed: Oct. 03, 2023. [Online Book](https://www.oreilly.com/library/view/x-window-system/9780937175149/Chapter01.html)
+- “X Window System protocols and architecture,” Wikipedia. May 21, 2022. Accessed: Oct. 03, 2023. [Online](https://en.wikipedia.org/w/index.php?title=X_Window_System_protocols_and_architecture&oldid=1089073578)
+- “Xlib,” Wikipedia. Mar. 19, 2023. Accessed: Oct. 03, 2023. [Online](https://en.wikipedia.org/w/index.php?title=Xlib&oldid=1145561958)
+- “An introduction to X by The Linux Information Project (LINFO).” Accessed: Oct. 03, 2023. [Online](https://www.linfo.org/x.html)
+- Srinivasan, “JUST AIX: Create/rebuild a new .Xauthority file,” JUST AIX. Accessed: Oct. 03, 2023. [Online](http://justaix.blogspot.com/2011/01/createrebuild-new-xauthority-file.html)
 

@@ -12,7 +12,7 @@ In this blog, we will demonstrate two methods of viewing graphical outputs from 
 
 # The X-Server Architecture
 
-![X11 Architecture](/assests/images/XserverClient-v2.png)
+![X11 Architecture]({{site.url}}/assests/images/XserverClient-v2.png)
 
 The graphics window system in Linux is based on X Window System, called X for short, that was first developed at MIT in 1984 of which X Version 11 (X11) is the version in use today which was first released in 1987. X Windows is based on client-server model where, a *X server* program runs on a computer with graphical interface hardware that communicates with various *client programs* over a network protocol.
 

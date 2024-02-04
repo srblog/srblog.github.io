@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "User Guide for X11 Client-Server"
+title:  "Understanding and using the X Window System"
 date:   2024-02-04
 tags: linux X11 
 ---

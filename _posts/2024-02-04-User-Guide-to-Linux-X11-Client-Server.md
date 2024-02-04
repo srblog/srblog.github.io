@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "User Guide for X11 Client-Server"
-date:   2024-02-05
+date:   2024-02-04
 tags: linux X11 
 ---
 # Introduction

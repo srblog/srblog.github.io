@@ -1,0 +1,13 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Page-1" id="MH49WB9Qhz_Rmh6Nf4wP">
+    <mxGraphModel dx="1026" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p9Ky6ETGD1FuQ0feNjZP-1" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;i&gt;HW&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;: RaspPi + SSD&lt;div&gt;&lt;i&gt;&lt;b&gt;OS&lt;/b&gt;&lt;/i&gt; : RasPi OS Lite&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;b&gt;Server&lt;/b&gt;&lt;/i&gt;: Logitech Music Server (LMS)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="190" width="160" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

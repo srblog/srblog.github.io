@@ -1,0 +1,63 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Page-1" id="MH49WB9Qhz_Rmh6Nf4wP">
+    <mxGraphModel dx="789" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p9Ky6ETGD1FuQ0feNjZP-1" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;i&gt;HW&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;: RaspPi + SSD&lt;div&gt;&lt;i&gt;&lt;b&gt;OS&lt;/b&gt;&lt;/i&gt; : RasPi OS Lite&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;b&gt;Server&lt;/b&gt;&lt;/i&gt;: Logitech Music Server (LMS)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="190" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p9Ky6ETGD1FuQ0feNjZP-2" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;i&gt;HW&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;: RaspPi + HiFiBerry&lt;div&gt;&lt;i&gt;&lt;b&gt;OS&lt;/b&gt;&lt;/i&gt; : HiFiBerry OS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="190" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p9Ky6ETGD1FuQ0feNjZP-3" value="Amplifier&lt;div&gt;&lt;b&gt;NAD D 3020&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="190" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p9Ky6ETGD1FuQ0feNjZP-4" value="Speaker&lt;div&gt;&lt;b&gt;Wharfedale Diamond 10&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="190" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p9Ky6ETGD1FuQ0feNjZP-5" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;startWidth=26;startSize=6.33;endWidth=26;endSize=9.33;width=22;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="140" y="150" as="sourcePoint" />
+            <mxPoint x="440" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9Ky6ETGD1FuQ0feNjZP-9" value="WiFi/LAN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p9Ky6ETGD1FuQ0feNjZP-5">
+          <mxGeometry x="-0.0733" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9Ky6ETGD1FuQ0feNjZP-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="190" as="sourcePoint" />
+            <mxPoint x="210" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9Ky6ETGD1FuQ0feNjZP-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="190" as="sourcePoint" />
+            <mxPoint x="380" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9Ky6ETGD1FuQ0feNjZP-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="p9Ky6ETGD1FuQ0feNjZP-2" target="p9Ky6ETGD1FuQ0feNjZP-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="290" as="sourcePoint" />
+            <mxPoint x="450" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9Ky6ETGD1FuQ0feNjZP-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="p9Ky6ETGD1FuQ0feNjZP-3" target="p9Ky6ETGD1FuQ0feNjZP-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="290" as="sourcePoint" />
+            <mxPoint x="450" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9Ky6ETGD1FuQ0feNjZP-12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="400" width="20" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="p9Ky6ETGD1FuQ0feNjZP-14" value="Sweet Audio Rig" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="270" width="220" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

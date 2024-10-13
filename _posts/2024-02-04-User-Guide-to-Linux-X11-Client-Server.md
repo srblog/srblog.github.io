@@ -4,7 +4,6 @@ title:  "Understanding and using the X Window System"
 date:   2024-02-04
 tags: linux X11 
 ---
-# Introduction
 
 The explosion of the cloud computing market in recent years has resulted in cheap and widely available computing services. One subset of it is Infrastructure as a Service (IaaS), which offers essential compute, storage, and networking resources on demand, on a pay-as-you-go basis. Today, a consumer has access to Linux virtual machines (VM) in the cloud for less than five USD per month from any of the multiple cloud service providers including Linode, Amazon AWS, Digital Ocean, Google, Microsoft Azure, Vultr. But typically, these low-cost VMs are barebone headless servers (without monitor, keyboard, and mouse) running on low resources, for example, 1 shared CPU and 500 MB of RAM. Therefore, the stock Linux installation mostly does not come with any graphical user interface packages installed on it. In most use cases, these VMs are running services that do not require any graphical output, but there are times an user may require to view an output like viewing a graphical plot from your Python program.
 

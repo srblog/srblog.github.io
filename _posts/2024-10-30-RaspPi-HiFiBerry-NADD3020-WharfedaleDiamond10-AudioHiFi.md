@@ -8,12 +8,15 @@ tags: RaspPi Music Audio HiFi
 
 ![HiFi Setup](/assets/images/2024-10-30-hifiSetup.png)
 
-This audio rig is for an audio enthusiast looking to step into the world of audiophile on a budget.
+This audio rig is for audio enthusiast looking to step into the world of audiophile on a budget.
 This setup consists of four components: the music server (RasPi+LMS), the audio playback unit (RasPi+HiFiBerry), the amplifier (NAD D3020), and the speakers (Wharfedale Diamond 10). 
 Currently, the entire setup can be put together for under USD 1,000.
 <!--- 1. RAspi 5 ($50), 2. HiFiBerry ($40), 3. NAD 3020 ($500) 4. Wharfedale Diamond 12.0 ($350)-->
 
-# Setting up Raspberry Pi as NAS Server
+# Setting up the Lyrion Music Server (LMS)
+
+[Lyrion Music Server (LMS)](https://lyrion.org) (formerly Logitech Media Server) is open-source server software which controls a wide range of Squeezebox audio players including HiFiBerry. Lyrion can stream your local music collection, internet radio stations, and content from many streaming services (with and without subscriptions). In this section we will document the installation of LMS on a Raspberry Pi OS Lite.
+
 
 **INSTALLING RASPBERRY PI OS LITE**
 

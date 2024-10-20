@@ -2,7 +2,7 @@
 layout: post
 title:  "Create Free Websites on GitHub Pages"
 date:   2024-10-20
-tags: website GitHub DNS 
+tags: website GitHub github-pages DNS 
 ---
 
 [GitHub Pages](https://docs.github.com/en/pages/quickstart) provides an effective way to host static web pages from GitHub repositories. You can link a custom domain to your GitHub page to create a professional site without a separate host. This guide explains how to set up a GitHub page and connect a GoDaddy domain. 

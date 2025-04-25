@@ -4,6 +4,8 @@
 #bundle install
 #bundle update
 
+git pull
+
 ./tag_generator.py
 
 bundle exec jekyll build
